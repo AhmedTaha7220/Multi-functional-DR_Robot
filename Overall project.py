@@ -1,4 +1,5 @@
 ############################
+#Authour: Ahmed Mohamed Mahmoud Taha
 ############################
 #Loading our models and prediction
 
@@ -10,7 +11,7 @@ import matplotlib.pyplot as plt
 #%matplotlib inline
 # this library is used to draw graphs or plots
 import os
-# this library is used to read extensions from drivers inside operating system
+# this library is used to read extensions from drivers inside the operating system
 import cv2
 # this library is used to be able to import the dataset that you will use
 from tqdm import tqdm
